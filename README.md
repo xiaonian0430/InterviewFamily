@@ -12,16 +12,16 @@
 </p>
 
 ![](https://tva1.sinaimg.cn/large/0082zybply1gbrddtj9ksj30ol2dr4ez.jpg)
-# 目录(擅用Ctrl+F)
+# 目录(擅用 Ctrl+F)
 
-- Java基础核心串讲
+- Java 基础核心串讲
 
-  - 计算机操作系统与Linux
-  - [学习linux命令，看这篇2w多字的命令详解就够了](https://mp.weixin.qq.com/s/7bSwKiPmtJbs7FtRWZZqpA)
+  - 计算机操作系统与 Linux
+  - [学习 linux 命令，看这篇 2w 多字的命令详解就够了](https://mp.weixin.qq.com/s/7bSwKiPmtJbs7FtRWZZqpA)
   - [图解HTTP协议](https://mp.weixin.qq.com/s/AK1Pb9rx0q5Hf8dq6HNOhw)
   - 计算机网络
   - 7种常见的设计模式和使用场景
-  - Java必会基础与新版本特性
+  - Java 必会基础与新版本特性
   - [HashMap](https://github.com/AobingJava/JavaFamily/blob/master/docs/basics/HashMap.md)
   - [万万没想到，HashMap默认容量的选择，竟然背后有这么多思考！？](https://mp.weixin.qq.com/s/ktre8-C-cP_2HZxVW5fomQ)
   - [ConcurrentHashMap & Hashtable（文末送书）](https://mp.weixin.qq.com/s/AixdbEiXf3KfE724kg2YIw)
@@ -29,10 +29,10 @@
   - [跟着动画学习TCP三次握手和四次挥手](https://mp.weixin.qq.com/s/NL7Jzh0lYoA395yzaGxBHw)
   - [面试官问我同步容器（如Vector）的所有操作一定是线程安全的吗？我懵了！](https://mp.weixin.qq.com/s/0cMrE87iUxLBw_qTBMYMgA)
   
-- 深入浅出JVM
+- 深入浅出 JVM
 
-  - JVM内存模型
-  - [【JVM故事】了解JVM的结构，好在面试时吹牛](https://mp.weixin.qq.com/s/fit90VdZUa2pG9lbET0i7w)
+  - JVM 内存模型
+  - [【JVM 故事】了解JVM的结构，好在面试时吹牛](https://mp.weixin.qq.com/s/fit90VdZUa2pG9lbET0i7w)
   - [看完这篇垃圾回收，和面试官扯皮没问题了（现在点外卖是天价！）](https://mp.weixin.qq.com/s/_AKQs-xXDHlk84HbwKUzOw)
   - 性能调优、线上问题排查
   - 类加载机制详解
@@ -44,39 +44,39 @@
   - 线程状态转换与通信机制
   - 线程同步与互斥
   - 线程池知识点
-  - 常见的JUC工具类
+  - 常见的 JUC 工具类
   - [【面试】如果把线程当作一个人来对待，所有问题都瞬间明白了](https://mp.weixin.qq.com/s/PrUa0tFyu3UZllP2FRDyVA)
   - [Java 并发进阶常见面试题总结](https://mp.weixin.qq.com/s/cdHfTTvMpH60SwG2bjTMBw)
   - [如果你这样回答“什么是线程安全”，面试官都会对你刮目相看（建议珍藏）](https://mp.weixin.qq.com/s/WDeewsvWUEBIuabvVVhweA)
   
 - 常用工具集
 
-  - JVM问题排查工具-JMC
-  - IDEA开发神器
-  - 线上调试神器-btrace
-  - Git原理与工作流
-  - Linux常用分析工具
+  - JVM 问题排查工具 - JMC
+  - IDEA 开发神器
+  - 线上调试神器 - btrace
+  - Git 原理与工作流
+  - Linux 常用分析工具
  
 - 数据结构与算法
 
-  - 从二叉搜索树到B+树
+  - 从二叉搜索树到 B+ 树
   - 经典问题之字符串
-  - 经典问题之TOPK
+  - 经典问题之 TOPK
   - [图解红黑树](https://mp.weixin.qq.com/s/-8JFh5iLr88XA4AJ9mMf6g)
   
 - 必会框架
 
-  - Spring全家桶以及源码分析
+  - Spring 全家桶以及源码分析
   - [外行人都能看懂的SpringCloud，错过了血亏！](https://mp.weixin.qq.com/s/MJrahcDXwxgDr5zBdO3XWw)
-  - 高性能NIO框架-Netty
-  - 分布式框架基石-RPC
-  - ORM框架Mybatis源码分析
-  - [什么是Zookeeper](https://mp.weixin.qq.com/s/gphDLJMO3QcRoN3zkco4EA)
-  - [什么是单点登录(SSO)](https://mp.weixin.qq.com/s/drPVkRbCsDIlX6Ls2pDmqA)
+  - 高性能 NIO 框架 - Netty
+  - 分布式框架基石 - RPC
+  - ORM 框架 Mybatis 源码分析
+  - [什么是 Zookeeper](https://mp.weixin.qq.com/s/gphDLJMO3QcRoN3zkco4EA)
+  - [什么是单点登录( SSO )](https://mp.weixin.qq.com/s/drPVkRbCsDIlX6Ls2pDmqA)
   
 - [高并发架构基石-缓存](https://github.com/AobingJava/JavaFamily/tree/master/docs/redis)
 
-  - [Redis基础知识](https://github.com/AobingJava/JavaFamily/blob/master/docs/redis/Redis%E5%9F%BA%E7%A1%80.md)
+  - [Redis 基础知识](https://github.com/AobingJava/JavaFamily/blob/master/docs/redis/01.Redis 基础知识.md)
   - [缓存击穿、雪崩、穿透](https://github.com/AobingJava/JavaFamily/blob/master/docs/redis/%E7%BC%93%E5%AD%98%E5%87%BB%E7%A9%BF%E3%80%81%E9%9B%AA%E5%B4%A9%E3%80%81%E7%A9%BF%E9%80%8F.md)
   - [集群高可用、哨兵、持久化、LRU](https://github.com/AobingJava/JavaFamily/blob/master/docs/redis/%E9%9B%86%E7%BE%A4%E9%AB%98%E5%8F%AF%E7%94%A8%E3%80%81%E5%93%A8%E5%85%B5%E3%80%81%E6%8C%81%E4%B9%85%E5%8C%96%E3%80%81LRU.md)
   - [分布式锁、并发竞争、双写一致性](https://github.com/AobingJava/JavaFamily/blob/master/docs/redis/%E5%88%86%E5%B8%83%E5%BC%8F%E9%94%81%E3%80%81%E5%B9%B6%E5%8F%91%E7%AB%9E%E4%BA%89%E3%80%81%E5%8F%8C%E5%86%99%E4%B8%80%E8%87%B4%E6%80%A7.md)
