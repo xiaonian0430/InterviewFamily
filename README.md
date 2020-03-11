@@ -82,7 +82,7 @@
   - [04.分布式锁、并发竞争、双写一致性](https://github.com/xiaonian0430/InterviewFamily/blob/master/docs/redis/04.%E5%88%86%E5%B8%83%E5%BC%8F%E9%94%81%E3%80%81%E5%B9%B6%E5%8F%91%E7%AB%9E%E4%BA%89%E3%80%81%E5%8F%8C%E5%86%99%E4%B8%80%E8%87%B4%E6%80%A7.md)
   - [05.Redis常见面试题](https://github.com/xiaonian0430/InterviewFamily/blob/master/docs/redis/05.Redis%E5%B8%B8%E8%A7%81%E9%9D%A2%E8%AF%95%E9%A2%98.md)
   - [06.布隆过滤器(BloomFilter)](https://github.com/xiaonian0430/InterviewFamily/blob/master/docs/redis/06.%E5%B8%83%E9%9A%86%E8%BF%87%E6%BB%A4%E5%99%A8(BloomFilter).md)
-  - [秒杀系统设计](https://github.com/AobingJava/JavaFamily/blob/master/docs/redis/%E7%A7%92%E6%9D%80%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1.md)
+  - [07.秒杀系统设计](https://github.com/xiaonian0430/InterviewFamily/blob/master/docs/redis/07.%E7%A7%92%E6%9D%80%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1.md)
   - [课代表总结](https://github.com/AobingJava/JavaFamily/blob/master/docs/redis/%E8%AF%BE%E4%BB%A3%E8%A1%A8%E6%80%BB%E7%BB%93.md)
   - [短小精悍之 Redis 命令行工具有趣的罕见用法](https://mp.weixin.qq.com/s/eSx4aL7iaMZlW0cPZswghA)
   - [布隆过滤器实战【防止缓存击穿】](https://mp.weixin.qq.com/s/BdwZViiAqnFhCde4ZsxwPg)
