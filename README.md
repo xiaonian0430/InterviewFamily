@@ -74,7 +74,7 @@
   - [05.Redis常见面试题](https://github.com/xiaonian0430/InterviewFamily/blob/master/docs/redis/05.Redis%E5%B8%B8%E8%A7%81%E9%9D%A2%E8%AF%95%E9%A2%98.md)
   - [06.布隆过滤器(BloomFilter)](https://github.com/xiaonian0430/InterviewFamily/blob/master/docs/redis/06.%E5%B8%83%E9%9A%86%E8%BF%87%E6%BB%A4%E5%99%A8(BloomFilter).md)
   - [07.秒杀系统设计](https://github.com/xiaonian0430/InterviewFamily/blob/master/docs/redis/07.%E7%A7%92%E6%9D%80%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1.md)
-  - [08.课代表总结](https://github.com/AobingJava/JavaFamily/blob/master/docs/redis/%E8%AF%BE%E4%BB%A3%E8%A1%A8%E6%80%BB%E7%BB%93.md)
+  - [08.课代表总结](https://github.com/xiaonian0430/InterviewFamily/blob/master/docs/redis/08.%E8%AF%BE%E4%BB%A3%E8%A1%A8%E6%80%BB%E7%BB%93.md)
   - [短小精悍之 Redis 命令行工具有趣的罕见用法](https://mp.weixin.qq.com/s/eSx4aL7iaMZlW0cPZswghA)
   - [布隆过滤器实战【防止缓存击穿】](https://mp.weixin.qq.com/s/BdwZViiAqnFhCde4ZsxwPg)
   - [布隆过滤器过时了，未来属于布谷鸟过滤器？](https://mp.weixin.qq.com/s/XxY3b5FoVXCvHJWMxQH29g)
