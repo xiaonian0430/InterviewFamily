@@ -11,7 +11,8 @@
   <a href="https://www.toutiao.com/c/user/3270187212/#mid=1557137040287746"><img src="https://img.shields.io/badge/toutiao-头条-9cf" alt="投稿"></a>
 </p>
 
-![](https://tva1.sinaimg.cn/large/0082zybply1gbrddtj9ksj30ol2dr4ez.jpg)
+<img src="https://raw.githubusercontent.com/xiaonian0430/InterviewFamily/master/imgs/index/%E5%AD%A6%E4%B9%A0%E8%B7%AF%E7%BA%BF%E8%84%91%E5%9B%BE.png" alt="" style="zoom:50%;" />
+
 # 目录(擅用 Ctrl+F)
 
 - Java 基础核心串讲
