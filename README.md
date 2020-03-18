@@ -1,15 +1,5 @@
 
-<p align="center">
-  <a href="#微信"><img src="https://img.shields.io/badge/weChat-微信群-blue.svg" alt="微信群"></a>
-  <a href="#公众号"><img src="https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-三太子敖丙-lightgrey.svg" alt="公众号"></a>
-  <a href="https://juejin.im/user/59b416065188257e671b670a"><img src="https://img.shields.io/badge/juejin-掘金-blue.svg" alt="公众号"></a>
-  <a href="https://me.csdn.net/qq_35190492"><img src="https://img.shields.io/badge/csdn-CSDN-red.svg" alt="投稿"></a>
-  <a href="https://www.cnblogs.com/aobing/"><img src="https://img.shields.io/badge/cnblogs-博客园-important.svg" alt="投稿"></a>
-  <a href="https://my.oschina.net/javaFamily"><img src="https://img.shields.io/badge/oschina-开源中国-green" alt="投稿"></a>
-  <a href="https://www.jianshu.com/u/e7c221a5d1d9"><img src="https://img.shields.io/badge/jianshu-简书-critical" alt="投稿"></a>
-  <a href="https://www.zhihu.com/people/aobingJava/activities"><img src="https://img.shields.io/badge/zhihu-知乎-informational" alt="投稿"></a>
-  <a href="https://www.toutiao.com/c/user/3270187212/#mid=1557137040287746"><img src="https://img.shields.io/badge/toutiao-头条-9cf" alt="投稿"></a>
-</p>
+# 核心学习架构
 
 <img src="https://raw.githubusercontent.com/xiaonian0430/InterviewFamily/master/imgs/index/%E5%AD%A6%E4%B9%A0%E8%B7%AF%E7%BA%BF%E8%84%91%E5%9B%BE.png" alt="" style="zoom:50%;" />
 
