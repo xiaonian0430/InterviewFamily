@@ -82,6 +82,7 @@
   - [Redis—分布式锁深入探究](https://mp.weixin.qq.com/s/49hgH3COla3wU0rgyiUVgg)
   - [Redis—跳跃表](https://mp.weixin.qq.com/s/NOsXdrMrWwq4NTm180a6vw)
   - [Redis—5种基本数据结构](https://mp.weixin.qq.com/s/MT1tB2_7f5RuOxKhuEm1vQ)
+  - [Redis—持久化](https://mp.weixin.qq.com/s/O_qDco6-Dasu3RomWIK_Ig)
   
 - [消息队列](https://github.com/AobingJava/JavaFamily/tree/master/docs/mq)
 
