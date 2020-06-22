@@ -93,7 +93,7 @@
   - [RocketMQ](https://github.com/AobingJava/JavaFamily/blob/master/docs/mq/RocketMQ.md)
 
 - 数据库
-
+  - [MySql主从复制，从原理到实践！](https://github.com/xiaonian0430/InterviewFamily/blob/master/docs/db/MySql%E4%B8%BB%E4%BB%8E%E5%A4%8D%E5%88%B6%EF%BC%8C%E4%BB%8E%E5%8E%9F%E7%90%86%E5%88%B0%E5%AE%9E%E8%B7%B5%EF%BC%81.md)
   - MySQL
   - 索引、锁机制
   - 事务特性、隔离级别
